@@ -9,6 +9,7 @@ database
 config/app.php
 bootstrap/
 resource/
+.idea
 
 # Laravel 4 specific
 bootstrap/compiled.php
