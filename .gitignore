@@ -7,7 +7,6 @@ storage
 public
 database
 config/app.php
-config/
 bootstrap/
 resource/
 
